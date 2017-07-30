@@ -142,7 +142,7 @@
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
           
-          <input type="submit"  name="submit" value=" Send message " class="btn btn-primary" />
+          <input type="submit"  name="submit" value=" Post " class="btn btn-primary" />
           <input type="hidden"  name="course_id" value="<?php echo $course_id ?>"/>
         </div>
           </form>

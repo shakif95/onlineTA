@@ -30,27 +30,17 @@
                   <table class="table table-user-information">
                     <tbody>
                       <tr>
-                        <td>Department:</td>
-                        <td>Business</td>
-                      </tr>
-                      <tr>
                         <td>Username</td>
                         <td><?php echo $username ?></td>
                       </tr>
-                      <tr>
-                        <td>Major</td>
-                        <td>Finance</td>
-                      </tr>
+                   
                    
                          <tr>
                              <tr>
                         <td>Gender</td>
                         <td><?php echo $gender ?></td>
                       </tr>
-                        <tr>
-                        <td>Home Address</td>
-                        <td>Banasree Dhaka</td>
-                      </tr>
+                 
                       <tr>
                         <td>Email</td>
                         <td><a href="mailto:info@support.com"><?php echo $email ?></a></td>
